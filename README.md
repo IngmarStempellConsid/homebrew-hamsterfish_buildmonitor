@@ -1,3 +1,3 @@
-brew tap IngmarStempellConsid/hamsterfish_buildmonitor
+```brew tap IngmarStempellConsid/hamsterfish_buildmonitor```
 
-brew install IngmarStempellConsid/hamsterfish_buildmonitor/buildmonitor
+```brew install IngmarStempellConsid/hamsterfish_buildmonitor/buildmonitor```
