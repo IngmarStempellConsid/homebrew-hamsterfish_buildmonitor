@@ -1,9 +1,9 @@
 class Buildmonitor < Formula
   desc "Desktop build monitor for GitHub Actions and Google Cloud"
   homepage "https://github.com/otto-ec/hamsterfish_x_build_monitor"
-  url "https://github.com/IngmarStempellConsid/homebrew-hamsterfish_buildmonitor/releases/download/v2026.07.25/buildmonitor-macos-universal.tar.gz"
-  sha256 "96dbdc34f8d374000bd2408ccc696eca5871815bb6f5c590b304b43d6e177f04"
-  version "2026.07.25"
+  url "https://github.com/IngmarStempellConsid/homebrew-hamsterfish_buildmonitor/releases/download/v2026.07.26/buildmonitor-macos-universal.tar.gz"
+  sha256 "063d2014b88833b9ebb946237608cfec50ae5f731f5a2912a06e745295ce0a7d"
+  version "2026.07.26"
 
   depends_on :macos
 
